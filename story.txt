@@ -1,11 +1,8 @@
 ÉTER
 
 EXPERIMENTO 1
-<<<<<<< HEAD
 Master 3
-=======
 EXPERIMENTO 2
->>>>>>> 0f6ff78 (Experimento 2)
 
 La era primigenia:
 
